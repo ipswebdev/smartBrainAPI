@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node": "^1.19.1"
+    "nodemon": "^1.19.1"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
