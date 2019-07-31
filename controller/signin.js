@@ -20,7 +20,7 @@ if(isValid){
 res.status(400).json('wrong credentials')
 }
 })	
-.catch(err => res.status(400).json('wrong credentials'))
+.catch(err => res.status(400).json('some error'))
 }
 
 module.exports={
